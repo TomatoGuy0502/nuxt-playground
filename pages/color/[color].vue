@@ -2,6 +2,4 @@
   <p>{{ $route.params.color }}</p>
 </template>
 
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>

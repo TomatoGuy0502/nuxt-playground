@@ -4,6 +4,6 @@
 
 <script setup lang="ts">
 definePageMeta({
-  layout: 'application'
+  layout: 'application',
 })
 </script>
